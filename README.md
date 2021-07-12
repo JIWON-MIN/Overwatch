@@ -7,6 +7,5 @@
 원본파일 주소 : https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla
 
 
-https://user-images.githubusercontent.com/50798685/125234906-926ae300-e31c-11eb-8833-2c5918d7470e.mp4
-
+https://user-images.githubusercontent.com/50798685/125234975-af9fb180-e31c-11eb-9534-2ffb30b7c903.mp4
 
